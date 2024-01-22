@@ -1,0 +1,17 @@
+{
+  "time_offset": -7,
+  "network": {
+    "mode": "sta",
+    "hostname": "pod1",
+    "ssid": "",
+    "password": ""
+  },
+  "log": {
+    "level": "debug"
+  },
+  "status_led": {
+    "pin": 2,
+    "pwm_frequency": 1000,
+    "fade_steps": 8
+  }
+}
